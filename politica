@@ -1,3 +1,8 @@
+POLÍTICA DE PRIVACIDADE — ATA APP
+Esta é a Política de Privacidade do aplicativo ATA, que descreve como os dados pessoais dos usuários são coletados, utilizados, armazenados e protegidos conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD).
+Ao utilizar o aplicativo ATA, o usuário concorda expressamente com as práticas descritas nesta Política de Privacidade.
+
+
 Dados Coletados
 Para a adequada prestação dos serviços oferecidos, o ATA poderá coletar e tratar os seguintes dados pessoais:
 • Dados de identificação pessoal: nome completo, endereço de e-mail, número de telefone, CPF e RG;
@@ -5,26 +10,36 @@ Para a adequada prestação dos serviços oferecidos, o ATA poderá coletar e tr
 • Documentos complementares: comprovante de residência e documento do veículo;
 • Dados de geolocalização, imagens e registros de uso do aplicativo;
 • Dados comportamentais e técnicos, coletados para fins de aprimoramento da experiência do usuário e melhoria contínua dos serviços.
+A coleta ocorre por meio do cadastro no aplicativo, uso contínuo das funcionalidades e integração com serviços terceiros autorizados.
 
 Finalidade do Uso dos Dados
 O tratamento dos dados pessoais tem como finalidades:
 • Possibilitar a intermediação entre motoristas e passageiros no âmbito do aplicativo;
 • Enviar comunicações e notificações operacionais ou de segurança;
 • Realizar análises estatísticas e estudos de desempenho visando à melhoria dos serviços;
-• Garantir a integridade, segurança e conformidade das interações realizadas na plataforma.
+• Prevenir fraudes, aumentar a segurança e Garantir conformidade legal das interações realizadas na plataforma.
 
 Compartilhamento de Dados
 O ATA poderá compartilhar dados pessoais com parceiros e prestadores de serviços estritamente necessários à operação do aplicativo, observando critérios de segurança e confidencialidade. Dentre eles:
 • Firebase – armazenamento de dados e infraestrutura de backend;
 • Google Analytics – análise de métricas de uso e desempenho do aplicativo;
 • Google Maps – fornecimento de serviços de geolocalização e rotas;
+• MapBox — serviços de geolocalização, mapas e rotas;
 • Gateways de pagamento – processamento seguro de transações financeiras.
 Todos os terceiros envolvidos estão contratualmente obrigados a manter o sigilo e a adotar medidas de proteção compatíveis com a LGPD.
+O ATA não vende, aluga ou comercializa dados pessoais de seus usuários.
 
 Armazenamento e Segurança
-Os dados pessoais são armazenados em ambiente seguro e controlado, com a utilização de criptografia e protocolos técnicos adequados para prevenir acessos não autorizados, perda, destruição ou divulgação indevida. O ATA adota medidas administrativas, técnicas e físicas compatíveis com as melhores práticas de segurança da informação.
+Os dados pessoais são armazenados em ambiente seguro e controlado, utilizando:
+Criptografia de dados sensíveis;
+Protocolos de segurança atualizados;
+Controle de acesso restrito;
+Monitoramento contra acessos não autorizados, perda, vazamento ou uso indevido.
 
+O ATA adota medidas administrativas, técnicas e físicas de proteção compatíveis com as melhores práticas de segurança da informação.
 Retenção de Dados
+Anonimizados; ou
+Excluídos de forma segura.
 Os dados pessoais serão mantidos pelo período necessário ao cumprimento das finalidades previstas nesta Política, ou pelo tempo exigido por obrigação legal, contratual ou regulatória. Após o término do tratamento, os dados poderão ser anonimizados ou eliminados de forma segura.
 
 Direitos do Titular dos Dados
@@ -33,9 +48,18 @@ Em conformidade com a LGPD, o titular dos dados pessoais possui os seguintes dir
 • Corrigir dados incompletos, inexatos ou desatualizados;
 • Solicitar a anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a lei;
 • Revogar consentimentos concedidos e solicitar a exclusão definitiva de seus dados pessoais, observadas as hipóteses legais de retenção.
-Para exercer seus direitos, o titular poderá entrar em contato com o Encarregado de Proteção de Dados (DPO) do ATA, por meio do e-mail: [inserir e-mail de contato].
+Para exercer seus direitos, o titular poderá entrar em contato com o Encarregado de Proteção de Dados (DPO) do ATA, por meio do e-mail: atatransportealternativo@gmail.com
 
 Idade Mínima
 O uso do aplicativo ATA é restrito a pessoas com idade igual ou superior a 18 (dezoito) anos.
 Usuários menores de 18 anos somente poderão utilizar o aplicativo mediante processo de autenticação e consentimento formal de até dois responsáveis legais, que deverão ser devidamente cadastrados e habilitados na plataforma para fins de responsabilidade civil e de uso.
 O ATA reserva-se o direito de suspender ou encerrar o acesso de usuários que não cumpram tais requisitos de verificação e autorização.
+
+Alterações nesta Política
+
+Esta Política de Privacidade pode ser atualizada a qualquer momento para refletir melhorias ou exigências legais.
+Recomenda-se que o usuário revise periodicamente esta página.
+
+Última atualização: 30/11/2025
+
+
